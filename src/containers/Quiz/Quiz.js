@@ -15,7 +15,7 @@ class Quiz extends Component {
         rightAnswerId: 2,
         id: 1,
         answers: [
-          {text: 'one!', id: 1},
+          {text: 'one', id: 1},
           {text: 'two', id: 2},
           {text: 'three', id: 3},
           {text: 'four', id: 4}
